@@ -65,7 +65,17 @@ const About = () => {
             <div>
               <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
               <p className="grid-subtext">I&apos;m based in Lagos, Nigeria and open to remote work worldwide.</p>
-              <Button name="Contact Me" isBeam containerClass="w-full mt-10" href="#contact" />
+              <Button 
+                name="Contact Me" 
+                isBeam 
+                containerClass="w-full mt-10" 
+                onClick={() => {
+                  const contactSection = document.getElementById('contact');
+                  if (contactSection) {
+                    contactSection.scrollIntoView({ behavior: 'smooth' });
+                  }
+                }}
+              />
             </div>
           </div>
         </div>

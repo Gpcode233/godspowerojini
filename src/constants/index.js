@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'Founder of InnovatetoImpact',
     img: 'assets/review1.png',
     review:
-      'Working with Godspower Ojini during the Innovate to Impact Hackathon was a truly impressive experience. As the Front-end developer on the team that won in first place, he demonstrated not only technical excellence but also a clear understanding of user experience & design principles. Despite the intense 48-hour deadline, Godspower played a key role in bringing a fully functional MVP to life — I’d highly recommend him to any team looking for a developer who delivers under pressure with precision and creativity.',
+      'Working with Godspower Ojini during the Innovate to Impact Hackathon was a truly impressive experience. As the Front-end developer on the team that won in first place, despite the intense 48-hour deadline, Godspower played a key role in bringing a fully functional MVP to life — I’d highly recommend him to any team looking for a developer who delivers under pressure with precision and creativity.',
   },
   {
     id: 2,

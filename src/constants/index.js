@@ -24,11 +24,11 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
+    name: 'Victoria Nnamdi',
+    position: 'Founder of InnovatetoImpact',
     img: 'assets/review1.png',
     review:
-      'Working with Godspower was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Godspower Ojini during the Innovate to Impact Hackathon was a truly impressive experience. As the Front-end developer on the team that won in first place, he demonstrated not only technical excellence but also a clear understanding of user experience & design principles. Despite the intense 48-hour deadline, Godspower played a key role in bringing a fully functional MVP to life — I’d highly recommend him to any team looking for a developer who delivers under pressure with precision and creativity.',
   },
   {
     id: 2,

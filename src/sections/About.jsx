@@ -25,8 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Godspower Ojini</p>
               <p className="grid-subtext">
-                With 2 years of experience, I have honed my skills in both frontend development, creating dynamic
-                & responsive websites.
+I'm a 17-year-old Fullstack Developer with a Lenovo Ideapad and 2 years of experience. I'm currently in the university and actively building real-world solutions through web technologies.
               </p>
             </div>
           </div>
